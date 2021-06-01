@@ -1,0 +1,31 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+    background-color: crimson;
+    color: white;   
+}
+
+.jsnack {
+    display: flex;
+    justify-content: space-around ;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.section {
+    background-color: rgb(2, 2, 58);
+    width: 200px;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    height: 150px;
+}
